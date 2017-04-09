@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Minesweeper</string>
+
+  <string name="alert">"알림"</string>
+  <string name="confirm">"확인"</string>
+  <string name="refresh">"새로고침"</string>
+  <string name="close">"닫기"</string>
+  <string name="now_loading">"게임 준비 중입니다."</string>
+  <string name="game_over">"게임오버"</string>
+  <string name="game_finish">"클리어"</string>
+
+</resources>
